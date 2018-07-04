@@ -1,0 +1,8 @@
+{"level":"info","ts":"2018-07-04T17:47:40.400+0800","caller":"models/dbbase.go:20","msg":"Init db.............."}
+{"level":"info","ts":"2018-07-04T17:47:42.093+0800","caller":"models/dbbase.go:28","msg":"Init platform Db.............."}
+{"level":"info","ts":"2018-07-04T17:47:42.120+0800","caller":"leisure/main.go:117","msg":"leisure server is start"}
+{"level":"info","ts":"2018-07-04T17:58:52.474+0800","caller":"leisure/main.go:133","msg":"Shutdown gracefully, bye..."}
+{"level":"info","ts":"2018-07-04T17:59:15.590+0800","caller":"models/dbbase.go:20","msg":"Init db.............."}
+{"level":"info","ts":"2018-07-04T17:59:15.894+0800","caller":"models/dbbase.go:28","msg":"Init platform Db.............."}
+{"level":"info","ts":"2018-07-04T17:59:15.901+0800","caller":"leisure/main.go:117","msg":"leisure server is start"}
+{"level":"info","ts":"2018-07-04T19:16:27.767+0800","caller":"leisure/main.go:133","msg":"Shutdown gracefully, bye..."}
